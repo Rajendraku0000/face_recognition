@@ -4,3 +4,4 @@ face_recognition
 mysql.connector
 pandas
 numpy
+Gunicorn
