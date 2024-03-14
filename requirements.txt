@@ -1,0 +1,7 @@
+opencv-python
+flask
+face_recognition
+mysql.connector
+pandas
+numpy
+Gunicorn
